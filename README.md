@@ -1,4 +1,4 @@
-<img align="right" alt="Gabriel Gif" width="100%" height="350rem" src="https://cdn.discordapp.com/attachments/503989350388727819/1003035321346302012/header.jpg">
+<!--<img align="right" alt="Gabriel Gif" width="100%" height="350rem" src="https://cdn.discordapp.com/attachments/503989350388727819/1003035321346302012/header.jpg">-->
 
 <p>&nbsp;</p>
 
@@ -7,7 +7,7 @@
 
 <p>&nbsp;</p>
 
-<img align="right" alt="Gabriel Gif" height="250rem" src="https://cdn.discordapp.com/attachments/503989350388727819/1003031730686529647/gab-gif.gif">
+<img align="right" alt="Gabriel Gif" height="250rem" src="https://media.discordapp.net/attachments/1003049455181910017/1422610899239436481/gab-gif.gif?ex=68dd4d25&is=68dbfba5&hm=76f4f3ee3260915ac5b6840ce5e7fbb66b0464664ff7bd70146b4985ca77d984&=)">
 
 
 - 👀 I’m interested in Frontend at the moment
